@@ -1,0 +1,18 @@
+meta {
+  name: Create
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://localhost:44347/api/courses
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "CourseCode": "JV123",
+    "Title": "Java Programming Language"
+  }
+}
