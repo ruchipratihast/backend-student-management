@@ -35,6 +35,7 @@ artifacts/
 # ASP.NET / app settings (optional: keep if sensitive)
 appsettings.Development.json
 appsettings.Local.json
+appsettings.json
 
 # IIS Express
 .vs/config/applicationhost.config

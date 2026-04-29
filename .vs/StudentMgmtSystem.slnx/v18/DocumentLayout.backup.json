@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\services\\students\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\students\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\services\\students\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\students\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\models\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\models\\response\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\models\\database\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\models\\database\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\models\\database\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\models\\database\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\validators\\studentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\validators\\coursevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\validators\\coursevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\models\\request\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\models\\request\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\services\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\courses\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\services\\courses\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\courses\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\models\\request\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\models\\request\\courserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\studentmgmtsystem\\studentmgmtsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542B1282-29C0-B130-FFE0-E1FE19274162}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,198 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T17:36:27.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Request\\StudentRequest.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Models\\Request\\StudentRequest.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Request\\StudentRequest.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Models\\Request\\StudentRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:52:11.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Database\\StudentModel.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Models\\Database\\StudentModel.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Database\\StudentModel.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Models\\Database\\StudentModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:47:56.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Students\\StudentService.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\Students\\StudentService.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Students\\StudentService.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Services\\Students\\StudentService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wD0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:45:43.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Students\\IStudentService.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\Students\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Students\\IStudentService.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Services\\Students\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:44:59.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Response\\StudentResponse.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Models\\Response\\StudentResponse.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Response\\StudentResponse.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Models\\Response\\StudentResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:44:33.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Courses\\CourseService.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\Courses\\CourseService.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Courses\\CourseService.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Services\\Courses\\CourseService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T14:14:43.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EFCoreDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\EFCoreDbContext.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\EFCoreDbContext.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\EFCoreDbContext.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\EFCoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T09:35:11.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Validators\\StudentValidator.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Validators\\StudentValidator.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Validators\\StudentValidator.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Validators\\StudentValidator.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T16:53:53.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Database\\CourseModel.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Models\\Database\\CourseModel.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Database\\CourseModel.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Models\\Database\\CourseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:26:11.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Courses\\ICourseService.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\Courses\\ICourseService.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Courses\\ICourseService.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Services\\Courses\\ICourseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T14:11:51.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Validators\\CourseValidator.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Validators\\CourseValidator.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Validators\\CourseValidator.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Validators\\CourseValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:33:58.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Program.cs",
               "RelativeDocumentMoniker": "StudentMgmtSystem\\Program.cs",
               "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Program.cs",
               "RelativeToolTip": "StudentMgmtSystem\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T14:20:06.044Z"
+              "WhenOpened": "2026-04-29T09:54:04.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CourseRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Request\\CourseRequest.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Models\\Request\\CourseRequest.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Models\\Request\\CourseRequest.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Models\\Request\\CourseRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T13:25:50.438Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\appsettings.json",
+              "RelativeToolTip": "StudentMgmtSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T09:44:23.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "StudentMgmtSystem\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "StudentMgmtSystem\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwBkAAABOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T12:59:13.016Z"
+              "WhenOpened": "2026-04-29T09:29:31.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\StudentMgmtSystem\\StudentMgmtSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T09:15:46.455Z",
+              "EditorCaption": ""
             }
           ]
         }

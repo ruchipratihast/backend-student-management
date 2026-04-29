@@ -125,4 +125,14 @@ C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmt
 C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.pdb
 C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.genruntimeconfig.cache
 C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\obj\Debug\net10.0\ref\StudentMgmtSystem.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\obj\Debug\net10.0\StudentMgmtSystem.sourcelink.json
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\BCrypt.Net-Next.dll
 C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ruchi\Documents\personal-work\cs-learning\StudentMgmtSystem\StudentMgmtSystem\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

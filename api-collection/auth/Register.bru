@@ -1,0 +1,21 @@
+meta {
+  name: Register
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://localhost:44347/api/auth/register
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "Email": "user@gmail.com",
+    "Otp": "530067",
+    "Name": "New user",
+    "Password": "password",
+    "Role": "Admin"
+  }
+}
